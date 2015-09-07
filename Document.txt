@@ -1,3 +1,6 @@
 zxxxxxxxxxxx
 xxxxxxx
 xxxxxx
+
+
+var x = new int
